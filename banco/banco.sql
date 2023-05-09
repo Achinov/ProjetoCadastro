@@ -22,4 +22,11 @@ VALUES ('CÁSSIO', '(18) 3622-9046', 'cassio#mail.com', '1234');
 
 select * from usuario;
 **/
+
+/**
+update usuario set nome_usuario = "Zezinho",
+					email_usuario = "ze@mail.com"
+where id_usuario=1
+**/
+
 );
