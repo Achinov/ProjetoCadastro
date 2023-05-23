@@ -36,6 +36,7 @@
         else
         echo"Erro ao tentar cadastrar!";
         }
-
+        
 
 ?>
+ <a href="index.php">Voltar</a>
